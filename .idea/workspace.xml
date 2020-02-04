@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbbd6d8b-7963-49e5-af23-1de06364770f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WkbqqZIpUGnVNKWCMr9zpXKSTb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.poset4">
+    <configuration name="poset2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="poset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poset2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poset3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="poset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poset3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poset4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="poset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poset4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rasp_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="poset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rasp_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcp_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcp_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.poset4" />
+        <item itemvalue="Python.tcp_test" />
+        <item itemvalue="Python.poset3" />
+        <item itemvalue="Python.rasp_test" />
+        <item itemvalue="Python.poset2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbbd6d8b-7963-49e5-af23-1de06364770f" name="Default Changelist" comment="" />
+      <created>1579696737620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579696737620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580729758885">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1580729758885" />
+    <state width="1345" height="117" key="GridCell.Tab.0.bottom" timestamp="1580816442047">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="117" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580816442047" />
+    <state width="1345" height="117" key="GridCell.Tab.0.center" timestamp="1580816442047">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="117" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580816442047" />
+    <state width="1345" height="117" key="GridCell.Tab.0.left" timestamp="1580816442047">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="117" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580816442047" />
+    <state width="1345" height="117" key="GridCell.Tab.0.right" timestamp="1580816442047">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="117" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580816442047" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1580753783272">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1580753783272">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1580753783271">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1580753783271" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1580753783272">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
+    <state x="68" y="50" key="SettingsEditor" timestamp="1580753009649">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="68" y="50" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580753009649" />
+  </component>
+</project>
