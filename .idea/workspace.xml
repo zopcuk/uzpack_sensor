@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbbd6d8b-7963-49e5-af23-1de06364770f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poset5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poset6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poset7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poset4.py" beforeDir="false" afterPath="$PROJECT_DIR$/poset4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poset5.py" beforeDir="false" afterPath="$PROJECT_DIR$/poset5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasp_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasp_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +39,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.poset5">
-    <configuration name="poset3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.poset4">
+    <configuration name="config_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="poset" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poset3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tcp_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="poset6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="poset" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcp_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poset6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tk_test11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rasp_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="poset" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../plate_det_reg" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../plate_det_reg/tk_test11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rasp_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.poset5" />
         <item itemvalue="Python.poset4" />
-        <item itemvalue="Python.tk_test11" />
-        <item itemvalue="Python.tcp_test" />
-        <item itemvalue="Python.poset3" />
+        <item itemvalue="Python.poset6" />
+        <item itemvalue="Python.poset5" />
+        <item itemvalue="Python.rasp_test" />
+        <item itemvalue="Python.config_test" />
       </list>
     </recent_temporary>
   </component>
@@ -166,26 +169,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580729758885">
+    <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580987077473">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1580729758885" />
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1580844477862">
+    <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1580987077473" />
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom" timestamp="1581180107544">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580844477862" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1580844477862">
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
+    <state width="1345" height="136" key="GridCell.Tab.0.center" timestamp="1581180107544">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580844477862" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1580844477862">
+    <state width="1345" height="136" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
+    <state width="1345" height="136" key="GridCell.Tab.0.left" timestamp="1581180107544">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580844477862" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1580844477862">
+    <state width="1345" height="136" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right" timestamp="1581180107544">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580844477862" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1580753783272">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -202,9 +205,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
-    <state x="68" y="50" key="SettingsEditor" timestamp="1580753009649">
+    <state x="68" y="50" key="SettingsEditor" timestamp="1580914502754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="68" y="50" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580753009649" />
+    <state x="68" y="50" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580914502754" />
   </component>
 </project>
