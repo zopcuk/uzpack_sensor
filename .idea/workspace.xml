@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbbd6d8b-7963-49e5-af23-1de06364770f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poset6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poset7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/poset4.py" beforeDir="false" afterPath="$PROJECT_DIR$/poset4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poset5.py" beforeDir="false" afterPath="$PROJECT_DIR$/poset5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rasp_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasp_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp_test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.poset4">
-    <configuration name="config_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="came_id_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="poset" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/came_id_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,10 +145,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.poset4" />
+        <item itemvalue="Python.came_id_test" />
         <item itemvalue="Python.poset6" />
         <item itemvalue="Python.poset5" />
         <item itemvalue="Python.rasp_test" />
-        <item itemvalue="Python.config_test" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +170,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1580987077473" />
-    <state width="1345" height="136" key="GridCell.Tab.0.bottom" timestamp="1581180107544">
+    <state width="659" height="136" key="GridCell.Tab.0.bottom" timestamp="1581594656815">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
-    <state width="1345" height="136" key="GridCell.Tab.0.center" timestamp="1581180107544">
+    <state width="659" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
+    <state width="659" height="136" key="GridCell.Tab.0.center" timestamp="1581594656815">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
-    <state width="1345" height="136" key="GridCell.Tab.0.left" timestamp="1581180107544">
+    <state width="659" height="136" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
+    <state width="659" height="136" key="GridCell.Tab.0.left" timestamp="1581594656815">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
-    <state width="1345" height="136" key="GridCell.Tab.0.right" timestamp="1581180107544">
+    <state width="659" height="136" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
+    <state width="659" height="136" key="GridCell.Tab.0.right" timestamp="1581594656815">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581180107544" />
+    <state width="659" height="136" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1580753783272">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -209,5 +206,16 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="68" y="50" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580914502754" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../multiple-cameras-rpi/multi_cam_motion.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
