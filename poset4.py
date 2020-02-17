@@ -1,21 +1,33 @@
 import numpy as np
-import cv2.cv2 as cv2
+import cv2
 import time
+from importlib import import_module
 import configparser
 import gpiozero
-
+import math
 
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
+'''#       key value
+cap.set(3 , 640  ) # width
+cap.set(4 , 480  ) # height
+cap.set(10, 120  ) # brightness     min: 0   , max: 255 , increment:1
+cap.set(11, 250   ) # contrast       min: 0   , max: 255 , increment:1
+cap.set(12, 70   ) # saturation     min: 0   , max: 255 , increment:1
+cap.set(13, 13   ) # hue
+cap.set(14, 50   ) # gain           min: 0   , max: 127 , increment:1
+cap.set(15, -3   ) # exposure       min: -7  , max: -1  , increment:1
+cap.set(17, 5000 ) # white_balance  min: 4000, max: 7000, increment:1
+cap.set(28, 0    ) # focus          min: 0   , max: 255 , increment:5
+time.sleep(2)'''
 #y_median = 0
 
 while(True):
+    time.sleep(0.005)
     start_time = time.time()
     ret, img = cap.read()
 
-
-
-
     while (ret == False):
+        time.sleep(1)
         cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
         ret, img = cap.read()
         print("kamera baglantısı kopuk..")
@@ -62,8 +74,8 @@ while(True):
 
         rho = 2  # distance resolution in pixels of the Hough grid//////////////////////////////////////////////////////
         theta = np.pi / 180  # angular resolution in radians of the Hough grid
-        threshold = 30  # minimum number of votes (intersections in Hough grid cell)////////////////////////////////////
-        min_line_length = 10  # minimum number of pixels making up a line///////////////////////////////////////////////
+        threshold = 50  # minimum number of votes (intersections in Hough grid cell)////////////////////////////////////
+        min_line_length = 20  # minimum number of pixels making up a line///////////////////////////////////////////////
         max_line_gap = 30  # maximum gap in pixels between connectable line segments////////////////////////////////////
         line_image = np.copy(img) * 0  # creating a blank to draw lines on
 
@@ -77,9 +89,11 @@ while(True):
         if lines is not None:
             for line in lines:
                 for x1, y1, x2, y2 in line:
-                    cv2.line(line_image, (x1, y1), (x2, y2),  (0, 0, 255), 3)
-                    i=i+1
-                    y_values=y_values+y1+y2
+                    slope = (y2 - y1) / (x2 - x1)  # <-- Calculating the slope.
+                    if math.fabs(slope) < 0.2:
+                        cv2.line(line_image, (x1, y1), (x2, y2),  (0, 0, 128), 2)
+                        i=i+1
+                        y_values=y_values+y1+y2
         i=i*2
         if i != 0:
             y_median=y_values/i

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbbd6d8b-7963-49e5-af23-1de06364770f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config_test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/poset4.py" beforeDir="false" afterPath="$PROJECT_DIR$/poset4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poset8.py" beforeDir="false" afterPath="$PROJECT_DIR$/poset8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rasp_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="poset8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="poset" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rasp_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poset8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,10 +145,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.poset4" />
+        <item itemvalue="Python.poset8" />
         <item itemvalue="Python.came_id_test" />
         <item itemvalue="Python.poset6" />
         <item itemvalue="Python.poset5" />
-        <item itemvalue="Python.rasp_test" />
       </list>
     </recent_temporary>
   </component>
@@ -170,42 +170,42 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="40" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1580987077473" />
-    <state width="659" height="136" key="GridCell.Tab.0.bottom" timestamp="1581594656815">
+    <state width="1345" height="137" key="GridCell.Tab.0.bottom" timestamp="1581952442040">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
-    <state width="659" height="136" key="GridCell.Tab.0.center" timestamp="1581594656815">
+    <state width="1345" height="137" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581952442040" />
+    <state width="1345" height="137" key="GridCell.Tab.0.center" timestamp="1581952442040">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="136" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
-    <state width="659" height="136" key="GridCell.Tab.0.left" timestamp="1581594656815">
+    <state width="1345" height="137" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581952442040" />
+    <state width="1345" height="137" key="GridCell.Tab.0.left" timestamp="1581952442040">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="136" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
-    <state width="659" height="136" key="GridCell.Tab.0.right" timestamp="1581594656815">
+    <state width="1345" height="137" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581952442040" />
+    <state width="1345" height="137" key="GridCell.Tab.0.right" timestamp="1581952442040">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="136" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581594656815" />
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1580753783272">
+    <state width="1345" height="137" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581952442040" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1581699817488">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
-    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1580753783272">
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581699817488" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1581699817488">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
-    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1580753783271">
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581699817488" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1581699817488">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1580753783271" />
-    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1580753783272">
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581699817488" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1581699817488">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1580753783272" />
-    <state x="68" y="50" key="SettingsEditor" timestamp="1580914502754">
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581699817488" />
+    <state x="68" y="50" key="SettingsEditor" timestamp="1581780174100">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="68" y="50" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580914502754" />
+    <state x="68" y="50" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581780174100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
